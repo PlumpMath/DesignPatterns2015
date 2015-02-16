@@ -17,6 +17,7 @@ namespace DesignPatterns2015
             InitializeComponent();
             // test commit
             String x = "Robin";
+            String z = "Selwyn";
 
         }
     }

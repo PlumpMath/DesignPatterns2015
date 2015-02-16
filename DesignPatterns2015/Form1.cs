@@ -15,6 +15,8 @@ namespace DesignPatterns2015
         public Form1()
         {
             InitializeComponent();
+            // test commit
+            String x = "naam";
         }
     }
 }
